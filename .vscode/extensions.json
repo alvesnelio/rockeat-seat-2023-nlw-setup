@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "prisma.prisma",
+    "bradlc.vscode-tailwindcss",
+    "dotenv.dotenv-vscode",
+    "miguelsolorio.fluent-icons",
+    "miguelsolorio.symbols",
+    "wallabyjs.console-ninja",
+    "mvllow.rose-pine"
+  ]
+}

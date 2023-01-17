@@ -1,0 +1,25 @@
+### Aula 01
+
+- [x] Boas vindas
+- [x] Não estarei sozinho!
+- [x] Programa de indicação
+- [x] Antecipação de evento
+- [x] Apresentação do projeto
+- [x] Conteúdo técnico
+  - [ ] Back-end
+    - [x] Fundamentos do Node.js
+    - [ ] Criação do projeto
+    - [ ] Setup TypeScript
+    - [ ] Criando primeira rota
+    - [ ] Configurando Prisma
+    - [ ] Configurando CORS
+  - [ ] Front-end
+    - [ ] Fundamentos do React
+    - [ ] Criação do projeto
+    - [ ] Componentes e propriedades
+    - [ ] Configurando Tailwind CSS
+  - [ ] Mobile
+    - [ ] Rodrigão
+  - [ ] Um pouco da minha história
+  - [ ] O que veremos na aula 02?
+  - [ ] Chave para o desafio.
