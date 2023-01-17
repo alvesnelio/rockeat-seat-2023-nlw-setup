@@ -170,5 +170,13 @@
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "workbench.editor.untitled.hint": "hidden",
-  "workbench.colorTheme": "Rosé Pine"
+  "workbench.colorTheme": "Rosé Pine",
+  "conventionalCommits.scopes": [
+    "Personas",
+    "DataFixtures",
+    "PHPUnit Testes Automatizados",
+    "SGED",
+    "MIDIA",
+    "SETUP Aula 01"
+  ]
 }
